@@ -30,6 +30,9 @@ DAX & Power Query – for data cleaning and calculations
 -Transaction and default rate monitoring
 -Interactive and user-friendly dashboard
 
+## How to Access
+- Dashboard Report: [sethkritika00910-sys/credit_card_financial_dashboard: POWERBI DASHBOARD]
+
 ## Contact
 - LinkedIn: [www.linkedin.com/in/kritikaseth910]
 - Email: [seth.kritika00910@gmail.com]
